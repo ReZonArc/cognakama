@@ -121,6 +121,16 @@ You can support development, new features, and maintainance of the server by usi
 
 Have a look at our [Heroic Cloud](https://heroiclabs.com/heroic-cloud/) service for more details.
 
+## Architecture Documentation
+
+For comprehensive technical documentation including system architecture, component interactions, and deployment patterns, see:
+
+- **[📋 Architecture Overview](docs/ARCHITECTURE.md)** - Complete system architecture with mermaid diagrams
+- **[🗃️ Database Architecture](docs/DATABASE_ARCHITECTURE.md)** - Detailed database schema and data models
+- **[⚙️ Runtime Architecture](docs/RUNTIME_ARCHITECTURE.md)** - Plugin system and extensibility details  
+- **[🔌 API Architecture](docs/API_ARCHITECTURE.md)** - HTTP/gRPC/WebSocket API documentation
+- **[🚀 Deployment Architecture](docs/DEPLOYMENT_ARCHITECTURE.md)** - Production deployment patterns and strategies
+
 ## Contribute
 
 The development roadmap is managed as GitHub issues and pull requests are welcome. If you're interested to add a feature which is not mentioned on the issue tracker please open one to create a discussion or drop in and discuss it in the [community forum](https://forum.heroiclabs.com).
