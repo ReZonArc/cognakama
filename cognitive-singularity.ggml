@@ -1,0 +1,57 @@
+{
+  "version": "1.0.0",
+  "tensor_field": {
+    "shape": [
+      776
+    ],
+    "prime_factorization": {
+      "2": 3,
+      "97": 1
+    },
+    "components": {
+      "gnn": {
+        "shape": [
+          7,
+          7,
+          7
+        ],
+        "params": 343
+      },
+      "das": {
+        "shape": [
+          11,
+          5,
+          2
+        ],
+        "params": 110
+      },
+      "esn": {
+        "shape": [
+          13,
+          3,
+          3
+        ],
+        "params": 117
+      },
+      "membrane": {
+        "shape": [
+          5,
+          5,
+          5
+        ],
+        "params": 125
+      },
+      "ecan": {
+        "shape": [
+          3,
+          3,
+          3,
+          3
+        ],
+        "params": 81
+      }
+    }
+  },
+  "unified_field": "graphql-neural-hypergraph-membrane",
+  "frame_problem": "SOLVED"
+}
